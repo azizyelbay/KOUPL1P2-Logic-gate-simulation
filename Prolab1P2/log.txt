@@ -1,0 +1,82 @@
+
+Tue Nov 13 17:38:31 2018
+                                    KOMUT:y devre.txt
+
+
+*CIKTI
+devre.txt yuklendi
+
+Tue Nov 13 17:38:35 2018
+                                    KOMUT:i deger.txt
+
+
+*CIKTI
+deger.txt yuklendi
+
+Tue Nov 13 17:38:37 2018
+                                    KOMUT:k komut.txt
+
+
+*CIKTI
+
+
+
+
+*CIKTI
+
+H	b
+
+
+*CIKTI
+b girisi 1 lendi.
+
+S
+
+
+*CIKTI
+devre simule edildi
+
+G*
+
+
+*CIKTI
+k:0
+l:0
+m:1
+f:0
+a:0
+b:1
+b:1
+c:1
+d:0
+Tum uclar gosterildi
+
+H	d
+
+
+*CIKTI
+d girisi 1 lendi.
+
+S
+
+
+*CIKTI
+devre simule edildi
+
+G	k
+
+
+*CIKTI
+k:0
+k:0
+
+G	f	
+
+
+*CIKTI
+f:0
+
+C
+
+
+*CIKTI
