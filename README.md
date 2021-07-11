@@ -1,1 +1,1 @@
-# KOUPL1P2-Logic-gate-simulation
+# Logic-gate-simulation
